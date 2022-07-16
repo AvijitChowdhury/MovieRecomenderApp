@@ -1,2 +1,2 @@
 gunicorn
-streamlit==0.62.1
+streamlit==1.11.0
